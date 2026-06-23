@@ -1,0 +1,7 @@
+ArrivalLocation,Region1_Release,Region2_Release,Region3_Release,Region4_Release,Region5_Release,Region6_Release
+Region1,NaN,0,0.809716599190283,0,0,0
+Region2,0,NaN,20.2429149797571,0,0,0
+Region3,11.1111111111111,0,NaN,0,0,0
+Region4,0.854700854700855,0,0,NaN,0,0
+Region5,0,0,0,0,NaN,0
+Region6,0,0,0,1.64835164835165,0,NaN
