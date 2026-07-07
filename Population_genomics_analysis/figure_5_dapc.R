@@ -1,6 +1,5 @@
 # Figure 5 – DAPC scatter plot (ggplot2)
 # Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean 
-# by Luigi Colin
 # already sourced by: analysis_optimized.R 
 
 p_load(ggplot2, RColorBrewer)
