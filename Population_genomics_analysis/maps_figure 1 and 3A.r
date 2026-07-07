@@ -1,6 +1,6 @@
 # Maps for:
 # Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean 
-# by Luigi Colin
+# 
 #
 # REQUIRED EXTERNAL FILES:
 #   Maps/all_population_sites.tsv
