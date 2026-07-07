@@ -1,4 +1,4 @@
-### SNP calling from UCE by Belen Arias (February 2022) ###
+### SNP calling from UCE ###
 
 ## This scripts is based on Zarza et al. 2016, Erickson et al. 2020 and Stiller et al. 2021 ###
 
