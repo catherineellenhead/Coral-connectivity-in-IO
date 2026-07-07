@@ -1,10 +1,10 @@
 ######READ ME FILE#######
 ### Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean ##
-## Dr Catherine Head ##
+####
 
 ####### Genomics Data and Code ########
 
-### Sequenced paired-end Illumina FASTQ files (.fastq.gz) have been accessioned to GenBank
+### Sequenced paired-end Illumina FASTQ files (.fastq.gz) have been accessioned to GenBank (accession no. PRJNA1489160)
 
 Naming convention:
 SampleID_1.fastq.gz
@@ -69,9 +69,8 @@ Location: Particle_tracking_outputs_and_scripts/
 Particle_Polygon_Gernerator_script.m
 Particle_Combined_Input.csv
 
-#Model outputs and subsequent connectivity matrices are provided and organised into years.
+#The subsequent connectivity matrices are provided and organised into years.
 
-Location: Particle_tracking_outputs_and_scripts/TrackMPD_outputs/
 Location: Particle_tracking_outputs_and_scripts/connectivity_matrices/
 
 #Connectivity matrices were summarised for downstream analysis to produce: 1) overall means per year, 2) a mean for the total ten years and 3) for the connectivity in only negative IOD years using the below code:
