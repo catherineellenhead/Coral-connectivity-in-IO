@@ -1,6 +1,6 @@
 # DAPC Analysis for:
 #Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean 
-# by Luigi Colin 
+#
 
 #--- SETUP AND DATA LOADING ---#
 library(pacman)
