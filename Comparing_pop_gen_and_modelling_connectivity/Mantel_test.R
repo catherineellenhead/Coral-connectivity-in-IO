@@ -1,6 +1,6 @@
 ### Mantel tests to compare genetic and particle tracking connectivity matrices
 ### Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean ##
-## By Dr Catherine Head ##
+##
 
 library(vegan)
 library(geosphere)
