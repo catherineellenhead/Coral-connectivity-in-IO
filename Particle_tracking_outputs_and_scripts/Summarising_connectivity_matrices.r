@@ -1,6 +1,6 @@
 ### Summarising connectivity matrices into one total connectivity matrix
 ### Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean ##
-## By Dr Catherine Head ##
+##
 
 library(vegan)
 library(geosphere)
