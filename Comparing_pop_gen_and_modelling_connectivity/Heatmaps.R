@@ -1,6 +1,6 @@
 ########### Making Heatmaps to visualise genetic and particle traacking connectivity
 ### Genomic and oceanographic evidence of reef connectivity across the western and central Indian Ocean ##
-## By Dr Catherine Head ##
+##
 
 #Set working directory
 setwd("")
